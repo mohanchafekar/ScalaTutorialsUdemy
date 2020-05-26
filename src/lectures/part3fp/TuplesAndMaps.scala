@@ -1,7 +1,5 @@
 package lectures.part3fp
 
-import java.nio.channels.NetworkChannel
-
 import scala.annotation.tailrec
 
 object TuplesAndMaps extends App{
